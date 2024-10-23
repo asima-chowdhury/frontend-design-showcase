@@ -11,8 +11,8 @@ Inside this repository, you'll find a variety of projects that cover fundamental
 Here's a quick look at some of the projects:
 - Glassmorphism-Login-UI
 - Vertical-Timeline-UI
-- 
-- 
+- CSS Image Hover Effect Code 2023
+- Restaurant Design 2022
 - 
 
 ## 📋 Prerequisites
