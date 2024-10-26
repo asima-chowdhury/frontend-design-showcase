@@ -13,7 +13,9 @@ Here's a quick look at some of the projects:
 - Vertical-Timeline-UI
 - CSS Image Hover Effect Code 2023
 - Restaurant Design 2022
-- 
+- Automotive Car
+- Fashion Clothes
+- News Magazine
 
 ## 📋 Prerequisites
 The projects are built with standard web technologies: HTML, CSS, and JavaScript. A basic understanding of these technologies is helpful, but each project includes notes and comments to guide you through the process. 📜💻
